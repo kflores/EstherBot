@@ -1,7 +1,12 @@
 {
-    "HELLO": "Hey, I'm so glad you set up Kflores-bot!",
-    "TWITTER": "Let's tweet @ Kflores so he knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/kflores-bot-tweet",
+    "HELLO": "Hey, I'm so glad you set up Kflores-bot! I can help you learn a bit about Kevin.  Try some keywords, such as WORK, INTERESTS, WEBSITE, TWITTER, LINKEDIN.",
+    "WORK": "Kevin is design-focused Product Manager.  He's worked with a lot of startups and is currently part of an innovation team at Verizon.",
+    "INTERESTS": "Kevin has a passion for great design and user experiences, all things technology-related, social good, collecting things.",
+    "WEBSITE": "Not a whole lot there, but check it out anyways: https://kflores.com",
+    "TWITTER": "Check out Kevin on Twitter at: http://twitter.com/kflores or you can tweet to let him know you're chatting with his bot! Here's a tweet that's ready to go: http://bit.ly/kflores-bot-tweet",
+    "LINKEDIN": "Yep, you can find him on LinkedIn at: https://www.linkedin.com/in/kflores",
+    "CONNECT": "Beep boop bop. Connected.",
+    "DISCONNECT": "Roger that, Kflores-bot is back.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, Kflores-bot is back."
+    "HUNGRY": "Me too, what's for lunch?"
 }
